@@ -1,9 +1,9 @@
 manifestVersion: 1
 id: lunaticoin-price-oracle
 category: bitcoin
-name: Bitcoin Price Oracle
-version: "0.1.4"
-tagline: On-chain Bitcoin price from your own node
+name: El Oráculo
+version: "0.1.5"
+tagline: On-chain Bitcoin price oracle from your own node
 description: >-
   Bitcoin Price Oracle computes historical and current BTC/USD prices using
   only data from your Bitcoin node. No third-party APIs, no external data.
@@ -17,14 +17,14 @@ description: >-
 
   Based on the brk_oracle algorithm from Bitcoin Research Kit (MIT license).
 releaseNotes: >-
-  v0.1.4: Mystical oracle UI redesign with crystal ball theme, favicon, and improved chart.
+  v0.1.5: Renamed to El Oráculo. New icon (crystal cube illustration). PNG favicon.
 developer: Lunaticoin
 website: https://github.com/lunaticoin/bitcoin-price-oracle
 dependencies:
   - bitcoin
 repo: https://github.com/lunaticoin/bitcoin-price-oracle
 support: https://github.com/lunaticoin/bitcoin-price-oracle/issues
-icon: https://raw.githubusercontent.com/lunaticoin/lunaticoin-umbrel-app-store/main/lunaticoin-price-oracle/icon.svg
+icon: https://raw.githubusercontent.com/lunaticoin/lunaticoin-umbrel-app-store/main/lunaticoin-price-oracle/icon.png
 port: 3200
 gallery: []
 path: ""
