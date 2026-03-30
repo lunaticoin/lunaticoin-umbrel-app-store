@@ -24,6 +24,7 @@ dependencies:
   - bitcoin
 repo: https://github.com/bitcoinresearchkit/brk
 support: https://github.com/bitcoinresearchkit/brk/issues
+icon: https://raw.githubusercontent.com/lunaticoin/lunaticoin-umbrel-app-store/main/lunaticoin-brk/icon.svg
 port: 3110
 gallery: []
 path: ""
