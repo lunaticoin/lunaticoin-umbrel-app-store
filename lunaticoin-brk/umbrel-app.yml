@@ -2,7 +2,7 @@ manifestVersion: 1
 id: lunaticoin-brk
 category: bitcoin
 name: Bitcoin Research Kit
-version: "0.2.2"
+version: "0.2.5"
 tagline: Open-source on-chain analytics for Bitcoin
 description: >-
   Bitcoin Research Kit (BRK) is a self-hosted on-chain analytics platform.
@@ -17,7 +17,7 @@ description: >-
   its analytics data (on top of Bitcoin Core's blockchain data). Initial
   indexing may take several hours depending on your hardware.
 releaseNotes: >-
-  Initial release for Umbrel based on BRK v0.2.2.
+  Updated to BRK v0.2.5.
 developer: Bitcoin Research Kit
 website: https://brk.rs
 dependencies:

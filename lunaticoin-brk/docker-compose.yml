@@ -8,7 +8,7 @@ services:
       PROXY_AUTH_ADD: "false"
 
   web:
-    image: ghcr.io/lunaticoin/brk:v0.2.2@sha256:5eb9cb11855de719be8ea47c766ac85cb24a28fe373bac0236af480866dbed28
+    image: ghcr.io/lunaticoin/brk:v0.2.5@sha256:2ce31209c074999b33461e319ac47bf9d631cdeba8d6632e52810f1996bbd1b6
     init: true
     restart: on-failure
     stop_grace_period: 5m
