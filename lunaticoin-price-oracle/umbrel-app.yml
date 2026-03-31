@@ -17,7 +17,7 @@ description: >-
 
   Based on the brk_oracle algorithm from Bitcoin Research Kit (MIT license).
 releaseNotes: >-
-  v0.1.10: Tor .onion address from Umbrel (APP_HIDDEN_SERVICE), new transparent favicon, CORS toggle, typography polish.
+  v0.1.10: Real CORS toggle, Tor .onion via APP_HIDDEN_SERVICE, new favicon, footer credits, typography polish.
 developer: Lunaticoin
 website: https://github.com/lunaticoin/el-oraculo
 dependencies:
